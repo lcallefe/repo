@@ -32,3 +32,4 @@
 /home/vkayleexu/Desktop/Repo/Zpp15/GrpcService1/obj/Debug/net8.0/GrpcService1.pdb
 /home/vkayleexu/Desktop/Repo/Zpp15/GrpcService1/obj/Debug/net8.0/GrpcService1.genruntimeconfig.cache
 /home/vkayleexu/Desktop/Repo/Zpp15/GrpcService1/obj/Debug/net8.0/ref/GrpcService1.dll
+/home/vkayleexu/Desktop/Repo/Zpp15/GrpcService1/obj/Debug/net8.0/GrpcService1.sourcelink.json
